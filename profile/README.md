@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/STREM-Platform/.github/main/assets/strem-logo.png"
+    src="https://raw.githubusercontent.com/STREM-Platform/.github/main/logo-variation-symbol-glow.png"
     alt="STREM logo"
     width="140"
   />
